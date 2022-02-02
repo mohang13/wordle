@@ -1,0 +1,11 @@
+name: wordle
+title:
+username:
+account: mohang
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5549455
+bundleId: 5530473
+url: https://mohang.shinyapps.io/wordle/
+when: 1643715665.54193
+lastSyncTime: 1643715665.54199
